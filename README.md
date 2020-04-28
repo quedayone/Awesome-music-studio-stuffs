@@ -2,8 +2,8 @@
 > Yet another awesome list, this time free audio plugins eh!
 
 ## Table of Contents
-- [Synths](Synths)
-- [Effects](Effects)
+- [Synths](#Synths)
+- [Effects](#Effects)
 ---
 ## Synths
 
