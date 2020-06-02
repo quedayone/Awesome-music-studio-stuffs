@@ -14,6 +14,13 @@
 
 > [Info](https://u-he.com/products/tyrelln6/)
 
+### Fury-800 
+> The Fury-800 is a software instrument for Microsoft Windows (VST) and Apple macOS (VST/AU) simulating the KORG Poly-800 polyphonic synthesizer from 1983.
+[![](https://www.fullbucket.de/music/images/fury800.jpg)](https://www.fullbucket.de/music/fury800.html)
+> [Download](https://www.fullbucket.de/music/fury800.html)
+
+> [Info](https://www.fullbucket.de/music/fury800.html)
+
 ---
 ## Effects
 ### Protoverb
