@@ -3,4 +3,4 @@
 
 ## Table of Contents
 - [Synths](synths.md)
-- [Effects](#Effects)
+- [Effects](effects.md)
