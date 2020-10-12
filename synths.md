@@ -1,4 +1,4 @@
-# [Back](readme.md)
+# [Back](README.md)
 ### Tyrell
 >  TyrellN6: Classic racer with u-he engine
 [![](https://u-he.com/products/tyrelln6/assets/images/uhe-tyrelln6-screenshot-fullui-1150x575.jpg)](https://www.amazona.de/freeware-synthesizer-tyrell-n6-plugin-vst-au-win-mac/)
