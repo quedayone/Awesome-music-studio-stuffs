@@ -1,7 +1,7 @@
 ##### [Back](README.md)
 ---
 
-#### Ken Marshall
+### Ken Marshall
 [Gain Staging - Music Production and Engineering](https://youtu.be/n20tI4obEmU)\
 Oct 9, 2020
 ---
