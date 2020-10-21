@@ -15,3 +15,9 @@ Mixing Into your Buss\
 ##### Apr 6, 2019
 ---
 
+## Ableton
+
+How to properly share and save your Ableton Live files\
+[![How to properly share and save your Ableton Live files](http://img.youtube.com/vi/uqG3NUYyUtM/0.jpg)](https://youtu.be/uqG3NUYyUtM)\
+##### Oct 5, 2018
+
