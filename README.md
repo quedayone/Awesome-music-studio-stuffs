@@ -2,6 +2,6 @@
 > Yet another awesome list
 
 ## Table of Contents
-- [Synths](synths.md)
-- [Effects](effects.md)
+- [Free Synths](synths.md)
+- [Free Effects](effects.md)
 - [Mixing Videos](mixing.md)
