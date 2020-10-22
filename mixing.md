@@ -21,3 +21,7 @@ How to properly share and save your Ableton Live files\
 [![How to properly share and save your Ableton Live files](http://img.youtube.com/vi/uqG3NUYyUtM/0.jpg)](https://youtu.be/uqG3NUYyUtM)\
 ##### Oct 5, 2018
 
+How to Export Stems for Collaboration Ableton Live\
+[![How to Export Stems for Collaboration Ableton Live](https://img.youtube.com/vi/YrhHHh4PVUw/0.jpg)](https://youtu.be/YrhHHh4PVUw)
+##### May 21, 2019 
+
