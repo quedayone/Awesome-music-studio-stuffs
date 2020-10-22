@@ -1,5 +1,5 @@
-# Awesome-free-audio-plugins
-> Yet another awesome list, this time free audio plugins eh!
+# Awesome-music-studio-stuffs
+> Yet another awesome list
 
 ## Table of Contents
 - [Synths](synths.md)
