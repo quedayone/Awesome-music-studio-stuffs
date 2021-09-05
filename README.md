@@ -5,3 +5,4 @@
 - [Free Synths](synths.md)
 - [Free Effects](effects.md)
 - [Mixing Videos](mixing.md)
+- [Open Source](opensource.md)
